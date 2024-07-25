@@ -8,7 +8,8 @@ No link da referência [3] está um arquivo de texto contendo configurações (m
 
 Rodando o arquivo .bat como administrador, ele irá baixar a imagem do ejabberd e configurá-lo, deixando uma imagem pronta no Docker. Após reiniciar a máquina, dê um "start" no container e acesse a aplicação.  
 
-A demonstração do funcionamento da aplicação será mostrado pessoalmente ao professor.
+A demonstração do funcionamento da aplicação será mostrado pessoalmente ao professor.  
+
 Referências  
 
 [1] https://www.youtube.com/watch?v=ZXxl7zm1Ftk&t=315s&ab_channel=AaricAaiden  
