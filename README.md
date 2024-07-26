@@ -10,6 +10,16 @@ Rodando o arquivo .bat como administrador, ele irá baixar a imagem do ejabberd 
 
 A demonstração do funcionamento da aplicação será mostrado pessoalmente ao professor.  
 
+A Seguir, os prints das aplicações rodando:  
+
+![Página web do Ejabberd](image.png "Página web do Ejabberd")  
+
+![Configuração das contas no Pidgin](image-1.png "Configuração das contas no Pidgin")  
+
+![Chat de contas criadas no Pidgin](image-2.png "Chat de contas criadas no Pidgin")  
+
+O mensageiro com código python do Xmpppy também encontrasse no repositório, porém, não consegui fazer utilizar a aplicação ejabber. Também tentei utilizar o Slixmpp, também sem sucesso. Continuarei investigando o funcionamento.  
+
 Referências  
 
 [1] https://www.youtube.com/watch?v=ZXxl7zm1Ftk&t=315s&ab_channel=AaricAaiden  
